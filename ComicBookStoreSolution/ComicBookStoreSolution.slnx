@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ComicBookStore/ComicBookStore.csproj" Id="ab88a3dd-69ab-425c-aa12-d9182ad977d8" />
+  <Project Path="ComicClassLibrary/ComicClassLibrary.csproj" Id="567a6376-e3d9-415e-bfc0-949cac8c5558" />
+</Solution>

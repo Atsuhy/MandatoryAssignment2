@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\bin\Debug\ComicClassLibrary.dll
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\bin\Debug\ComicClassLibrary.pdb
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.dll
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.pdb

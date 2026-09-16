@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\bin\Debug\ComicBookStore.exe.config
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\bin\Debug\ComicBookStore.exe
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\bin\Debug\ComicBookStore.pdb
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\bin\Debug\ComicClassLibrary.dll
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\bin\Debug\ComicClassLibrary.pdb
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\obj\Debug\ComicBookStore.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\obj\Debug\ComicBookStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\obj\Debug\ComicBoo.85A9280F.Up2Date
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\obj\Debug\ComicBookStore.exe
+C:\Users\User\source\repos\ComicBookStoreSolution\ComicBookStore\obj\Debug\ComicBookStore.pdb
