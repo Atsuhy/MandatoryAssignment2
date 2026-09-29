@@ -18,12 +18,46 @@ namespace ComicBookStore
             //var password = Console.ReadLine();
             Console.WriteLine("“Please provide password”");
             string password=Console.ReadLine();
-            
-            if(username == "admin")
+
+            if (username == "admin" && password == "1234")
             {
-                test
+                Console.WriteLine();
+                Console.WriteLine("Login successful!");
+                Console.WriteLine();
+                Console.WriteLine("****** Here are your options ******");
+                Console.WriteLine("Please select the action.");
+                Console.WriteLine("1. Show stock count for each theme of books");
+                Console.WriteLine("2. Show total value of each theme type for all comic books in stock");
+                Console.WriteLine("3. Register one comic book sold for a given theme");
+                Console.WriteLine("4. Get stock status");
+
+                string option = Console.ReadLine();
+
+                if (option == "1")
+                {
+                    Console.WriteLine("Stock count");
+                }
+                else if (option == "2")
+                {
+                    Console.WriteLine("Total value");
+                }
+                else if (option == "3")
+                {
+                    Console.WriteLine("Register sale");
+                }
+                else if (option == "4")
+                {
+                    Console.WriteLine("Stock status");
+                }
+                else
+                {
+                    Console.WriteLine("Invalid option");
+                }
             }
-            Console.ReadKey();
+            else
+            {
+                Console.WriteLine("You are not authorized to access this service");
+            }
         }
     }
 }
