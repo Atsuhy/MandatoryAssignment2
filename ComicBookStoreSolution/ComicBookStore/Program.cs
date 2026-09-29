@@ -8,10 +8,10 @@ using ComicClassLibrary;
 namespace ComicBookStore
 {
     internal class Program
-    {
+    {               
         static void Main(string[] args)
         {
-            ClassBook.ToString(new ClassBook("Batman"));
+            ClassBook book= new ClassBook();
             //var username = Console.ReadLine();
             Console.WriteLine("“Please provide username to access the ComicX system”");
             string username = Console.ReadLine();
@@ -36,7 +36,7 @@ namespace ComicBookStore
 
                 if (option == "1")
                 {
-                    Console.WriteLine("Stock count");
+                    book.StockQuantity();
                 }
                 else if (option == "2")
                 {
