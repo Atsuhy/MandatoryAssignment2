@@ -4,3 +4,9 @@ C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\Co
 C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.dll
 C:\Users\User\source\repos\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.pdb
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibrary\bin\Debug\ComicClassLibrary.dll
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibrary\bin\Debug\ComicClassLibrary.pdb
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.dll
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibrary\obj\Debug\ComicClassLibrary.pdb
