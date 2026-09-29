@@ -21,7 +21,7 @@ namespace ComicBookStore
             
             if(username == "admin")
             {
-                test
+                mukszik
             }
             Console.ReadKey();
         }
