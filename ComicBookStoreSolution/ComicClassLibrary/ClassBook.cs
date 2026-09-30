@@ -21,7 +21,7 @@ namespace ComicClassLibrary
             Console.WriteLine($"Number of Joker novels {JokerStock} db.");
             Console.WriteLine($"Number of Cat novels {CatStock} db.");
             Console.WriteLine($"Number of TheRiddler novels {TheRiddlerStock} db.");
-            Console.WriteLine($"Number of PinguinStock novels {PinguinStock}");
+            Console.WriteLine($"Number of PinguinStock novels {PinguinStock} db.");
         }
     }
 }
