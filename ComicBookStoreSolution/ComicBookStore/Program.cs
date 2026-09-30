@@ -12,10 +12,8 @@ namespace ComicBookStore
         static void Main(string[] args)
         {
             ClassBook book= new ClassBook();
-            //var username = Console.ReadLine();
             Console.WriteLine("“Please provide username to access the ComicX system”");
             string username = Console.ReadLine();
-            //var password = Console.ReadLine();
             Console.WriteLine("“Please provide password”");
             string password=Console.ReadLine();
 
