@@ -21,44 +21,52 @@ namespace ComicBookStore
 
             if (username == "admin" && password == "1234")
             {
-
                 Console.WriteLine();
                 Console.WriteLine("Login successful!");
                 Console.WriteLine();
-                Console.WriteLine("****** Here are your options ******");
-                Console.WriteLine("Please select the action.");
-                Console.WriteLine("1. Show stock count for each theme of books");
-                Console.WriteLine("2. Show total value of each theme type for all comic books in stock");
-                Console.WriteLine("3. Register one comic book sold for a given theme");
-                Console.WriteLine("4. Get stock status");
+                //book.Basic();
 
-                string option = Console.ReadLine();
+               
+                while (true)
+                {
+                    
+                    book.Basic();
+                    string option = Console.ReadLine();
+                    if (option == "1")
+                    {
+                        book.StockQuantity();
+                    }
+                    else if (option == "2")
+                    {
+                        book.TotalValue();
+                    }
+                    else if (option == "3")
+                    {
+                        Console.WriteLine("Register sale");
+                    }
+                    else if (option == "4")
+                    {
+                        Console.WriteLine("Stock status");
+                    }
+                    else if (option == "5")
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid option");
 
-                if (option == "1")
-                {
-                    book.StockQuantity();
+                    }
                 }
-                else if (option == "2")
-                {
-                    Console.WriteLine("Total value");
-                }
-                else if (option == "3")
-                {
-                    Console.WriteLine("Register sale");
-                }
-                else if (option == "4")
-                {
-                    Console.WriteLine("Stock status");
-                }
-                else
-                {
-                    Console.WriteLine("Invalid option");
-                }
+                
+               
             }
             else
             {
                 Console.WriteLine("You are not authorized to access this service");
             }
+            Console.ReadKey();
         }
+         
     }
 }
