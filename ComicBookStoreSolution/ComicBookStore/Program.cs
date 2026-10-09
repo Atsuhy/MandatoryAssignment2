@@ -12,10 +12,8 @@ namespace ComicBookStore
         static void Main(string[] args)
         {
             ClassBook book= new ClassBook();
-            //var username = Console.ReadLine();
             Console.WriteLine("“Please provide username to access the ComicX system”");
             string username = Console.ReadLine();
-            //var password = Console.ReadLine();
             Console.WriteLine("“Please provide password”");
             string password=Console.ReadLine();
 
@@ -24,12 +22,9 @@ namespace ComicBookStore
                 Console.WriteLine();
                 Console.WriteLine("Login successful!");
                 Console.WriteLine();
-                //book.Basic();
-
-               
                 while (true)
                 {
-                    
+                    int number;
                     book.Basic();
                     string option = Console.ReadLine();
                     if (option == "1")
@@ -41,12 +36,14 @@ namespace ComicBookStore
                         book.TotalValue();
                     }
                     else if (option == "3")
-                    {
-                        Console.WriteLine("Register sale");
+                    { 
+                        book.RegisterSale();
                     }
                     else if (option == "4")
                     {
-                        Console.WriteLine("Stock status");
+                        Console.WriteLine("Please enter the stock quantity:");
+                        number = int.Parse(Console.ReadLine());
+                        book.GetStatus(number);
                     }
                     else if (option == "5")
                     {
@@ -55,7 +52,6 @@ namespace ComicBookStore
                     else
                     {
                         Console.WriteLine("Invalid option");
-
                     }
                 }
                 

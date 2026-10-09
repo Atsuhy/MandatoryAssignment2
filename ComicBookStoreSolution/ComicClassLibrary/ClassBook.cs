@@ -42,5 +42,34 @@ namespace ComicClassLibrary
             Console.WriteLine($"Total value of TheRiddler novels {15} USD.");
             Console.WriteLine($"Total value of PinguinStock novels {19} USD.");
         }
+        public void RegisterSale()
+        {
+            
+        }
+        public void Sum()
+        {
+            int sum = BatmanStock + JokerStock + CatStock + TheRiddlerStock + PinguinStock;
+            Console.WriteLine(sum);
+        }
+        public void GetStatus(int number)
+        {
+            if (number <= 1000)
+            {
+                Console.WriteLine("VeryLow");
+            }
+            else if (number <= 1500)
+            {
+                Console.WriteLine("Low");
+            }
+            else if (number < 5000)
+            {
+                Console.WriteLine("Normal");
+            }
+            else
+            {
+                Console.WriteLine("Over");
+            }
+            return;
+        }
     }
 }
