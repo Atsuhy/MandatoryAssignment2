@@ -28,7 +28,7 @@ namespace ComicClassLibrary
         }
         public void StockQuantity() 
         { 
-            Console.WriteLine($"Number of Batman novels {BatmanStock} db.");
+            Console.WriteLine($"Number of Batman novels {BatmanStock}.");
             Console.WriteLine($"Number of Joker novels {JokerStock} db.");
             Console.WriteLine($"Number of Cat novels {CatStock} db.");
             Console.WriteLine($"Number of TheRiddler novels {TheRiddlerStock} db.");

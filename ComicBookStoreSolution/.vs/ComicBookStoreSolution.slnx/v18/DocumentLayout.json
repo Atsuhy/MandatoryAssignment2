@@ -1,14 +1,23 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{567A6376-E3D9-415E-BFC0-949CAC8C5558}|ComicClassLibrary\\ComicClassLibrary.csproj|C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\comicclasslibrary\\classbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{AB88A3DD-69AB-425C-AA12-D9182AD977D8}|ComicBookStore\\ComicBookStore.csproj|C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\comicbookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB88A3DD-69AB-425C-AA12-D9182AD977D8}|ComicBookStore\\ComicBookStore.csproj|solutionrelative:comicbookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567A6376-E3D9-415E-BFC0-949CAC8C5558}|ComicClassLibrary\\ComicClassLibrary.csproj|c:\\users\\user\\documents\\github\\mandatoryassignment2\\comicbookstoresolution\\comicclasslibrary\\classbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567A6376-E3D9-415E-BFC0-949CAC8C5558}|ComicClassLibrary\\ComicClassLibrary.csproj|solutionrelative:comicclasslibrary\\classbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{567A6376-E3D9-415E-BFC0-949CAC8C5558}|ComicClassLibrary\\ComicClassLibrary.csproj|c:\\users\\win11 user\\documents\\github\\mandatoryassignment2\\comicbookstoresolution\\comicclasslibrary\\classbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{567A6376-E3D9-415E-BFC0-949CAC8C5558}|ComicClassLibrary\\ComicClassLibrary.csproj|solutionrelative:comicclasslibrary\\classbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB88A3DD-69AB-425C-AA12-D9182AD977D8}|ComicBookStore\\ComicBookStore.csproj|c:\\users\\user\\documents\\github\\mandatoryassignment2\\comicbookstoresolution\\comicbookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB88A3DD-69AB-425C-AA12-D9182AD977D8}|ComicBookStore\\ComicBookStore.csproj|C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\comicbookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB88A3DD-69AB-425C-AA12-D9182AD977D8}|ComicBookStore\\ComicBookStore.csproj|solutionrelative:comicbookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 5544bacc1c69ddc5576509e5232d96cff6506d98
     }
   ],
   "DocumentGroupContainers": [
@@ -24,27 +33,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClassBook.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicClassLibrary\\ClassBook.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicClassLibrary\\ClassBook.cs",
               "RelativeDocumentMoniker": "ComicClassLibrary\\ClassBook.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicClassLibrary\\ClassBook.cs",
+              "ToolTip": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicClassLibrary\\ClassBook.cs",
               "RelativeToolTip": "ComicClassLibrary\\ClassBook.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAACQAAAAAAAAAAAA8wDQAAAAJAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAABFAAAAAAAAAA==",
+>>>>>>> 5544bacc1c69ddc5576509e5232d96cff6506d98
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T09:26:27.351Z",
+              "WhenOpened": "2026-10-07T11:17:02.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicBookStore\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicBookStore\\Program.cs",
               "RelativeDocumentMoniker": "ComicBookStore\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicBookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicBookStore\\Program.cs",
               "RelativeToolTip": "ComicBookStore\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDwAAAANAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwD4AAAANAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAUAAAAYAAAAAAAAAA==",
+>>>>>>> 5544bacc1c69ddc5576509e5232d96cff6506d98
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T09:26:27.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T11:17:02.629Z"
             }
           ]
         }
