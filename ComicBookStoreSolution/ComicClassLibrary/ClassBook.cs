@@ -46,10 +46,11 @@ namespace ComicClassLibrary
         {
             
         }
-        public void Sum()
+        public int Sum()
         {
             int sum = BatmanStock + JokerStock + CatStock + TheRiddlerStock + PinguinStock;
             Console.WriteLine(sum);
+            return sum;
         }
         public void GetStatus(int number)
         {

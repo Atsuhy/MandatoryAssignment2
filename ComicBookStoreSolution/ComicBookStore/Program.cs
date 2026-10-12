@@ -24,7 +24,7 @@ namespace ComicBookStore
                 Console.WriteLine();
                 while (true)
                 {
-                    int number;
+                    //int number;
                     book.Basic();
                     string option = Console.ReadLine();
                     if (option == "1")
@@ -41,9 +41,9 @@ namespace ComicBookStore
                     }
                     else if (option == "4")
                     {
-                        Console.WriteLine("Please enter the stock quantity:");
-                        number = int.Parse(Console.ReadLine());
-                        book.GetStatus(number);
+                        //Console.WriteLine("Please enter the stock quantity:");
+                        //number = int.Parse(Console.ReadLine());
+                        book.GetStatus(book.Sum());
                     }
                     else if (option == "5")
                     {
@@ -53,9 +53,7 @@ namespace ComicBookStore
                     {
                         Console.WriteLine("Invalid option");
                     }
-                }
-                
-               
+                }                         
             }
             else
             {
