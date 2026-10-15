@@ -37,11 +37,15 @@
               "ToolTip": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicClassLibrary\\ClassBook.cs",
               "RelativeToolTip": "ComicClassLibrary\\ClassBook.cs",
 <<<<<<< HEAD
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+<<<<<<< HEAD
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T11:17:02.454Z",
 =======
               "ViewState": "AgIAACEAAAAAAAAAAAAkwDcAAAAJAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDcAAAAJAAAAAAAAAA==",
+>>>>>>> ef1348f3ec8130480552d7b073bc6ba91872827f
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T06:58:50.655Z",
 >>>>>>> eb6c8694f6a7da3fd909f6c9de2141e7e165e87e
@@ -53,20 +57,22 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicBookStore\\Program.cs",
               "RelativeDocumentMoniker": "ComicBookStore\\Program.cs",
-<<<<<<< HEAD
               "ToolTip": "C:\\Users\\WIN11 USER\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicBookStore\\Program.cs",
               "RelativeToolTip": "ComicBookStore\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAUAAAAYAAAAAAAAAA==",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T11:17:02.629Z"
+              "WhenOpened": "2026-10-07T11:17:02.629Z",
 =======
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicBookStore\\Program.cs",
-              "RelativeToolTip": "ComicBookStore\\Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAsAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAsAAAAAAAAAA==",
+>>>>>>> ef1348f3ec8130480552d7b073bc6ba91872827f
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T06:58:50.808Z",
-              "EditorCaption": ""
 >>>>>>> eb6c8694f6a7da3fd909f6c9de2141e7e165e87e
+              "EditorCaption": ""
             }
           ]
         }
