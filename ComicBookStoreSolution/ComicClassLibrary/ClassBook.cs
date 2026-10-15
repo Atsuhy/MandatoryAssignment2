@@ -28,7 +28,7 @@ namespace ComicClassLibrary
         }
         public void StockQuantity() 
         { 
-            Console.WriteLine($"Number of Batman novels {BatmanStock} db.");
+            Console.WriteLine($"Number of Batman novels {BatmanStock}.");
             Console.WriteLine($"Number of Joker novels {JokerStock} db.");
             Console.WriteLine($"Number of Cat novels {CatStock} db.");
             Console.WriteLine($"Number of TheRiddler novels {TheRiddlerStock} db.");
@@ -41,6 +41,36 @@ namespace ComicClassLibrary
             Console.WriteLine($"Total value of Cat novels {11} USD.");
             Console.WriteLine($"Total value of TheRiddler novels {15} USD.");
             Console.WriteLine($"Total value of PinguinStock novels {19} USD.");
+        }
+        public void RegisterSale()
+        {
+            
+        }
+        public int Sum()
+        {
+            int sum = BatmanStock + JokerStock + CatStock + TheRiddlerStock + PinguinStock;
+            Console.WriteLine(sum);
+            return sum;
+        }
+        public void GetStatus(int number)
+        {
+            if (number <= 1000)
+            {
+                Console.WriteLine("VeryLow");
+            }
+            else if (number <= 1500)
+            {
+                Console.WriteLine("Low");
+            }
+            else if (number < 5000)
+            {
+                Console.WriteLine("Normal");
+            }
+            else
+            {
+                Console.WriteLine("Over");
+            }
+            return;
         }
     }
 }
