@@ -73,6 +73,5 @@ namespace ComicClassLibrary
             }
             return;
         }
-        Console.WriteLine("Over");
     }
 }
