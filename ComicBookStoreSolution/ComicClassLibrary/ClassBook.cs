@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 
 namespace ComicClassLibrary
@@ -43,9 +44,25 @@ namespace ComicClassLibrary
             Console.WriteLine($"Total value of TheRiddler novels {15} USD.");
             Console.WriteLine($"Total value of PinguinStock novels {19} USD.");
         }
-        public void RegisterSale()
+        public static void StreamReaderRegisterSale(string filename="comic.csv")
         {
-            
+            try
+            {
+                StreamReader sr = new StreamReader(filename);
+                Console.WriteLine("Comic book stock data: ");
+
+                while (!sr.EndOfStream) { 
+                    string line = sr.ReadLine();
+                    string[] linedb = line.Split(';');
+                    Console.WriteLine($"Theme: {linedb[0]} - Stock: {linedb[1]} pcs - Price: {linedb[2]} USD");
+                }   
+                sr.Close();
+            }
+            catch(Exception ex) 
+            {
+                Console.WriteLine("Error while reading the file");
+                Console.WriteLine(ex.Message);
+            }
         }
         public int Sum()
         {
