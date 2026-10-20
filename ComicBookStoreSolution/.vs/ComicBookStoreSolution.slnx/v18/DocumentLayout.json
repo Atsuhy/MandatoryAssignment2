@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E708B680-6B41-40C1-904F-01C701421EB5}|MandatoryV2\\MandatoryV2.csproj|C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\mandatoryv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E708B680-6B41-40C1-904F-01C701421EB5}|MandatoryV2\\MandatoryV2.csproj|solutionrelative:mandatoryv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD33D6AA-B743-45F1-ACE2-460C74088B9F}|ComicClassLibraryForm\\ComicClassLibraryForm.csproj|C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\comicclasslibraryform\\classbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD33D6AA-B743-45F1-ACE2-460C74088B9F}|ComicClassLibraryForm\\ComicClassLibraryForm.csproj|solutionrelative:comicclasslibraryform\\classbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E708B680-6B41-40C1-904F-01C701421EB5}|MandatoryV2\\MandatoryV2.csproj|c:\\users\\user\\documents\\github\\mandatoryassignment2\\comicbookstoresolution\\mandatoryv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E708B680-6B41-40C1-904F-01C701421EB5}|MandatoryV2\\MandatoryV2.csproj|C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\mandatoryv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E708B680-6B41-40C1-904F-01C701421EB5}|MandatoryV2\\MandatoryV2.csproj|solutionrelative:mandatoryv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E708B680-6B41-40C1-904F-01C701421EB5}|MandatoryV2\\MandatoryV2.csproj|c:\\users\\user\\documents\\github\\mandatoryassignment2\\comicbookstoresolution\\mandatoryv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E708B680-6B41-40C1-904F-01C701421EB5}|MandatoryV2\\MandatoryV2.csproj|solutionrelative:mandatoryv2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\MandatoryV2\\Form1.cs",
               "RelativeDocumentMoniker": "MandatoryV2\\Form1.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\MandatoryV2\\Form1.cs",
               "RelativeToolTip": "MandatoryV2\\Form1.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAEwIEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAvwIEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T18:33:01.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClassBookForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicClassLibraryForm\\ClassBookForm.cs",
               "RelativeDocumentMoniker": "ComicClassLibraryForm\\ClassBookForm.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\ComicClassLibraryForm\\ClassBookForm.cs",
               "RelativeToolTip": "ComicClassLibraryForm\\ClassBookForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwCkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T17:29:30.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MandatoryAssignment2\\ComicBookStoreSolution\\MandatoryV2\\Form1.cs",
               "RelativeDocumentMoniker": "MandatoryV2\\Form1.cs",
