@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibraryForm\bin\Debug\ComicClassLibraryForm.dll
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibraryForm\bin\Debug\ComicClassLibraryForm.pdb
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibraryForm\obj\Debug\ComicClassLibraryForm.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibraryForm\obj\Debug\ComicClassLibraryForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibraryForm\obj\Debug\ComicClassLibraryForm.dll
+C:\Users\User\Documents\GitHub\MandatoryAssignment2\ComicBookStoreSolution\ComicClassLibraryForm\obj\Debug\ComicClassLibraryForm.pdb

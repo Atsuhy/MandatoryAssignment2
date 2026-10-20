@@ -4,9 +4,12 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
 using System.IO;
 
 
+=======
+>>>>>>> e2d8f56a041974a5acbe54a33b8197985f12c221
 namespace ComicClassLibrary
 {
     public class ClassBook
@@ -32,7 +35,7 @@ namespace ComicClassLibrary
         { 
             Console.WriteLine($"Number of Batman novels {BatmanStock}.");
             Console.WriteLine($"Number of Joker novels {JokerStock} db.");
-            Console.WriteLine($"Number of Cat novels {CatStock} db.");
+            Console.WriteLine($"Number of Catwoman novels {CatStock} db.");
             Console.WriteLine($"Number of TheRiddler novels {TheRiddlerStock} db.");
             Console.WriteLine($"Number of PinguinStock novels {PinguinStock} db.");
         }
@@ -40,7 +43,7 @@ namespace ComicClassLibrary
         {
             Console.WriteLine($"Total value of Batman novels {22} USD.");
             Console.WriteLine($"Total value of Joker novels {13} USD.");
-            Console.WriteLine($"Total value of Cat novels {11} USD.");
+            Console.WriteLine($"Total value of Catwoman novels {11} USD.");
             Console.WriteLine($"Total value of TheRiddler novels {15} USD.");
             Console.WriteLine($"Total value of PinguinStock novels {19} USD.");
         }

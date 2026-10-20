@@ -1,0 +1,126 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
+using ComicClassLibraryForm;
+namespace MandatoryV2
+{
+    public partial class Form1 : Form
+    {
+
+        
+        private bool loggedIn = false;
+
+
+
+        public Form1()
+        {
+            InitializeComponent();
+            comboBox1.Items.AddRange(new string[]
+            {
+                "Batman",
+                "Joker",
+                "Cat",
+                "TheRiddler",
+                "Pinguin"
+            });
+            comboBox1.SelectedIndex = 0;
+
+            listView1.View = View.Details;
+            listView1.FullRowSelect = true;
+            listView1.GridLines = true;
+
+            listView1.Columns.Add("Theme", 130);
+            listView1.Columns.Add("Stock", 100);
+            listView1.Columns.Add("Price (USD)", 100);
+            listView1.Columns.Add("Total value (USD)", 150);
+            listView1.Columns.Add("Status", 50);
+
+
+
+
+            comboBox1.Enabled = true;
+            buttonSell.Enabled = true;
+            buttonStatus.Enabled = true;
+            buttonValue.Enabled = true;
+            buttonStock.Enabled = true;
+            buttonQuit.Enabled = true;
+        }
+
+        private void textBoxAdmin_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void textBoxPassword_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void buttonLogin_Click(object sender, EventArgs e)
+        {
+            if (textBoxAdmin.Text == "admin" && textBoxPassword.Text == "1234")
+            {
+                MessageBox.Show("Login successful!");
+                loggedIn = true;
+            }
+            else
+            {
+                MessageBox.Show("You are not authorized to access this service");
+            }
+        }
+
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+
+        private void buttonSell_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonStatus_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonValue_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonStock_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonQuit_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelUser_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelPassword_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
